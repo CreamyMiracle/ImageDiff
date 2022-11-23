@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "V2F1JwHi7PSJDYdOJyWkcM5edhoFMphG53+byITpS7WExyvjL7PBG2GAJXZmNDv5NoqJQaUf/X00seb7u8HrwA==",
+  "success": true,
+  "projectFilePath": "F:\\Dev\\ImageDiff\\ImageDiff\\ImageDiff\\ImageDiff.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rajala\\.nuget\\packages\\fluentcommandlineparser\\1.4.3\\fluentcommandlineparser.1.4.3.nupkg.sha512",
+    "C:\\Users\\Rajala\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\Rajala\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'FluentCommandLineParser 1.4.3' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "FluentCommandLineParser",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
